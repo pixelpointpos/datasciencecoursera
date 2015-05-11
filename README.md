@@ -1,2 +1,2 @@
 # datasciencecoursera
-1. data schientest's toolbox
+1. data scientist's toolbox
